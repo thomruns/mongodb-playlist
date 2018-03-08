@@ -7,3 +7,6 @@ Initial file setup. This branch added the mongoose dependency, as well as the .g
 
 ## Lesson 2
 Connecting to mongodb from the code. This lesson creates a test file called connection.js in a directory called test. Running this file from the CLI with mongodb running in the background creates a connection to the database. Error handling is also provided.
+
+## Lesson 3
+Create database models and collections. Set up a sample schema and model for data.
