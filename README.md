@@ -22,3 +22,6 @@ Modify code to ensure connection is made to database before running testing scri
 
 ## Lesson 7
 ACCOMPANIES TUTORIAL #9 Cleaning up the database before each test is run
+
+## Lesson 8
+Finding a record test
