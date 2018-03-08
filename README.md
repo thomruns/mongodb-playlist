@@ -19,3 +19,6 @@ Write and run a test script for adding a record to the database. Initial test fa
 
 ## Lesson 6
 Modify code to ensure connection is made to database before running testing scripts. Replaced mongoose.Promise with global.Promise
+
+## Lesson 7
+ACCOMPANIES TUTORIAL #9 Cleaning up the database before each test is run
