@@ -13,3 +13,6 @@ Create database models and collections. Set up a sample schema and model for dat
 
 ## Lesson 4
 Install mocha testing library and run sample test
+
+## Lesson 5
+Write and run a test script for adding a record to the database. Initial test failed; discovered syntax error in model schema file. 
