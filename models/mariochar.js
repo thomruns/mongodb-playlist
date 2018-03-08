@@ -1,5 +1,5 @@
 const mongoose = require('mongoose'); // require mongoos
-const schema = mongoose.Schema;  // mongoose Schema constructor function
+const Schema = mongoose.Schema;  // mongoose Schema constructor function
 
 // Create schema and model
 //   Create the schema
