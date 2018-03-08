@@ -1,1 +1,1 @@
-Read me file
+Project files for Net Ninja MongoDB course.
