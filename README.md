@@ -10,3 +10,6 @@ Connecting to mongodb from the code. This lesson creates a test file called conn
 
 ## Lesson 3
 Create database models and collections. Set up a sample schema and model for data.
+
+## Lesson 4
+Install mocha testing library and run sample test
