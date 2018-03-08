@@ -16,3 +16,6 @@ Install mocha testing library and run sample test
 
 ## Lesson 5
 Write and run a test script for adding a record to the database. Initial test failed; discovered syntax error in model schema file. 
+
+## Lesson 6
+Modify code to ensure connection is made to database before running testing scripts. Replaced mongoose.Promise with global.Promise

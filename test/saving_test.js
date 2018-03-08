@@ -1,4 +1,3 @@
-const mocha = require('mocha');  // delete this line and re-test without it
 const assert = require('assert');
 const MarioChar = require('../models/mariochar'); //use the model schema file
 
